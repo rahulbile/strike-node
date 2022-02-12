@@ -1,0 +1,31 @@
+{
+  "name": "strike-node",
+  "version": "0.0.1",
+  "description": "Strike.me API client for node.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulbile/strike-node.git"
+  },
+  "keywords": [
+    "strike",
+    "bitcoin"
+  ],
+  "contributors": [
+    "Rahul Bile <rahul.rmcet@gmail.com> (https://github.com/rahulbile)"
+  ],
+  "author": "rahulbile <rahul.rmcet@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+     "https": "1.0.0",
+     "underscore": "1.13.2",
+     "urlencode": "^1.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/rahulbile/strike-node/issues"
+  },
+  "homepage": "https://github.com/rahulbile/strike-node#readme"
+}
